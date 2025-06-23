@@ -1,0 +1,4 @@
+/gpt2/
+*.pth
+
+.DS_Store

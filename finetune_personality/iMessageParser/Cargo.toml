@@ -1,0 +1,8 @@
+[package]
+name = "iMessageParser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+imessage-database = "2.7.1"
+csv = "1.2"
